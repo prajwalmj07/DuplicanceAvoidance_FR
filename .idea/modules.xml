@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FacialRecognition and Login.iml" filepath="$PROJECT_DIR$/.idea/FacialRecognition and Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FacialRecognition-DuplicanceAvoidance.iml" filepath="$PROJECT_DIR$/.idea/FacialRecognition-DuplicanceAvoidance.iml" />
     </modules>
   </component>
 </project>
