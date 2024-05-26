@@ -1,3 +1,7 @@
 opencv-python==4.6.0.66
 Pillow
 face_recognition
+easydict==1.10
+tqdm==4.64.1
+torchvision==0.17.
+tensorboardX==2.5.1
