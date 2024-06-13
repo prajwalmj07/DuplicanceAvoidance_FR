@@ -47,7 +47,7 @@ def msg_box(title, description):
 
 
 def recognize(img, db_path):
-    # it is assumed there will be at most 1 match in the db
+    
 
     embeddings_unknown = face_recognition.face_encodings(img)
     if len(embeddings_unknown) == 0:
